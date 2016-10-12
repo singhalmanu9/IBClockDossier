@@ -1,0 +1,29 @@
+This is the Rubik's Clock Solver. Below is the scrambled clock, then the steps necessary to solve the clock. Please note that a positive number indicates a clockwise movement and vice versa. 
+
+12 0 12
+12 0 0
+12 12 12
+
+12 12 12
+12 12 12
+12 12 12
+
+Push all the buttons down.
+Push the upper left button up and turn the upper left turner -12 times.
+Then push it back down.
+Turn the clock over.
+
+Push all the buttons down.
+Push them all back up.
+Turn all the clocks 0 times.
+
+Push all the buttons up.
+
+12 12 12
+12 12 12
+12 12 12
+
+12 12 12
+12 12 12
+12 12 12
+
